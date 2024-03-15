@@ -1,2 +1,4 @@
 # FurBakingTool
-A Houdini Project; Baking Tangent Space Fur Direction Map; Render With Unity Custom SPR Rendering Pipeline;
+Baking Tangent Space Fur Direction Map;
+Houdini Version 19.5.682;
+Ref Labs;
