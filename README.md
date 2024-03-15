@@ -1,4 +1,4 @@
 # FurBakingTool
-Baking Tangent Space Fur Direction Map;/n
-Houdini Version 19.5.682;/n
+Baking Tangent Space Fur Direction Map; 
+Houdini Version 19.5.682;
 Ref Labs;
