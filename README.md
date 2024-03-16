@@ -1,6 +1,6 @@
 # Houdini Tools
-Houdini Version 19.5.682
-Ref SideFX Labs
+Houdini Version 19.5.682  
+Ref SideFX Labs  
 
 ## FurBakingTool
 Baking Tangent Space Fur Direction Map.
