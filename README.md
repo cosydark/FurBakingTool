@@ -4,3 +4,7 @@ Ref SideFX Labs
 
 ## FurBaking :3
 Bake Tangent Space Fur Direction Map with Fur Meshes.
+
+## Read CSV From RDC To Mesh XD
+
+## Bake Some HeightMap
